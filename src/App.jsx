@@ -6,8 +6,8 @@ import {
   Outlet,
   RouterProvider,
 } from "react-router-dom";
-import NavBar from "./pages/components/navbar/NavBar"
-import RightBar from "./pages/components/rightbar/RightBar"
+import NavBar from "./pages/components/navbar/navbar"
+import RightBar from "./pages/components/rightbar/rightbar"
 import LeftBar from "./pages/components/leftbar/leftbar"
 import Home from "./pages/home/home.jsx"
 import Profile from "./pages/profile/profile.jsx"
